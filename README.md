@@ -32,7 +32,7 @@ Per crear les icones que necessitem per a la rèplica, seguirem aquests passos:
 1. **Creació d'un APK**
    - Crea un nou projecte:
      ```bash
-     cordova create myApp4
+     cordova create myApp
      ```
    - Accedeix a la carpeta del projecte:
      ```bash
