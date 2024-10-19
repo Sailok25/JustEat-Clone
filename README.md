@@ -1,15 +1,14 @@
 <div align="center">
   <h1>Repte-2_Replica-App-Just-Eat</h1>
-<br>
   <a href="#"><img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" alt="HTML Badge"/></a>
   <a href="#"><img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff" alt="CSS Badge"/></a>
   <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="JavaScript Badge"/></a>
 </div>
 
-
-Aquest repte consisteix en clonar una part de l'app **Just Eat**, centrant-nos en la fidelitat al detall. El projecte inclou la creació i modificació d'icones i la replicació del disseny de la interfície d'usuari, optimitzada tant per a dispositius mòbils com per a web.
+<br>
 
 ## Objectiu del repte
+Aquest repte consisteix en clonar una part de l'app **Just Eat**, centrant-nos en la fidelitat al detall. El projecte inclou la creació i modificació d'icones i la replicació del disseny de la interfície d'usuari, optimitzada tant per a dispositius mòbils com per a web.
 
 - **Clonació precisa**: Fer una rèplica de l'aplicació Just Eat, posant especial atenció al disseny i l'experiència d'usuari.
 - **Creació d'icones personalitzades**: Generar icones personalitzades utilitzant un procés específic de captura i conversió d'imatges.
