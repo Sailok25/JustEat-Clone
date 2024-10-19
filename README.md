@@ -13,6 +13,16 @@ Aquest repte consisteix en clonar una part de l'app **Just Eat**, centrant-nos e
 - **Clonació precisa**: Fer una rèplica de l'aplicació Just Eat, posant especial atenció al disseny i l'experiència d'usuari.
 - **Creació d'icones personalitzades**: Generar icones personalitzades utilitzant un procés específic de captura i conversió d'imatges.
 
+## Imatges de referència
+<div align="center">
+  <img src="imatges-je/je1.png" alt="Imatge 1" width="200"/>
+  <img src="imatges-je/je2.png" alt="Imatge 2" width="200"/>
+  <img src="imatges-je/je3.png" alt="Imatge 3" width="200"/>
+  <img src="imatges-je/je4.png" alt="Imatge 4" width="200"/>
+</div>
+
+<br>
+
 ## Pasos per a la creació d'icones
 
 Per crear les icones que necessitem per a la rèplica, seguirem aquests passos:
