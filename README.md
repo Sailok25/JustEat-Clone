@@ -29,8 +29,6 @@ Per crear les icones que necessitem per a la rèplica, seguirem aquests passos:
 
 ## Instal·lació i Execució d'un Repositori en Cordova
 
-### Passos M8 | Creació d'APP amb icona i splash screen
-
 1. **Creació d'un APK**
    - Crea un nou projecte:
      ```bash
