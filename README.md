@@ -78,7 +78,7 @@ Per crear les icones que necessitem per a la rèplica, seguirem aquests passos:
 
 4. Debuggar l'APK
    
-Utilitza eines de debugging com Chrome DevTools per a depurar l'aplicació si és necessari.
+   Utilitza eines de debugging com Chrome DevTools per a depurar l'aplicació si és necessari.
 
 <br>
 
