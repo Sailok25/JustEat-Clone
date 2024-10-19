@@ -25,8 +25,9 @@ Aquest repte consisteix en clonar una part de l'app **Just Eat**, centrant-nos e
 
 ## Pasos per a la creació d'icones
 
-Per crear les icones que necessitem per a la rèplica, seguirem aquests passos:
+Hi ha dues opcions per crear les icones que necessitem per a la rèplica:
 
+### **Mètode 1: Creació d'icones personalitzades**
 1. **Captura de pantalla**: Realitza captures de pantalla de les icones utilitzades a l'app Just Eat.
 2. **Guardar en format `.png`**: Guarda les captures d'icones en format `.png`.
 3. **Editar les imatges**: Modifica les imatges `.png` per deixar el fons transparent, assegurant una neteja visual.
@@ -34,6 +35,14 @@ Per crear les icones que necessitem per a la rèplica, seguirem aquests passos:
 5. **Crear les icones amb IcoMoon**:
    - Importa els arxius `.svg` a [IcoMoon.io](https://icomoon.io) per generar un conjunt d'icones que podràs utilitzar al projecte.
    - Crea el paquet d'icones que necessitis per implementar-les fàcilment al teu projecte.
+
+### **Mètode 2: Utilitzar Font Awesome**
+1. **Importar la biblioteca de Font Awesome**:
+   ```html
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+   ```
+2. **Trobar els icones que més s'asemblin**
+   Navega pel catàleg d'icones de Font Awesome i escull els que desitgis utilitzar al teu projecte.
 
 <br>
 
